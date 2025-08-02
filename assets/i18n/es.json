@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "team": "Equipo",
+    "contact": "Contacto",
+    "get_started": "Comenzar"
+  },
+  "hero": {
+    "title": "Servicio de Detallado para Autos y Camiones<span>.</span>",
+    "subtitle": "Donde el brillo es solo el comienzo"
+  },
+  "about": {
+    "title": "Provisión de servicios dignos",
+    "description": "Nuestro compromiso es ofrecerte calidad y excelencia."
+  },
+  "services": {
+    "title": "Servicios",
+    "description": "Revisa nuestros servicios"
+  }

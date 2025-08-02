@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "team": "Team",
+    "contact": "Contact",
+    "get_started": "Get Started",
+    "dropdown": "Dropdown"
+  },
+  "hero": {
+    "title": "Mobile Car and Truck Detailing<span>.</span>",
+    "subtitle": "Where the shine is just the beginning"
+  },
+  "about": {
+    "title": "Dignified Service Provision",
+    "description": "Our commitment is to provide quality and excellence."
+  },
+  "services": {
+    "title": "Services",
+    "description": "Check our Services"
+  },
+  "global": {
+    "interiorHeading": "Interior:",
+    "exteriorHeading": "Exterior:"
+  },
+  "luxoBasic": {
+    "title": "Luxo Basic",
+    "description": "Discover our Luxo Basic package, the essential service for your vehicle's care. We offer detailed interior and exterior cleaning to make your car look impeccable. A complete and convenient service, designed to meet your basic detailing needs.",
+    "sedanPriceLabel": "Sedan Price",
+    "SUVPriceLabel": "SUV Price",
+    "largeSUVPriceLabel": "Large SUV & Pick-up",
+    "interiorCleaningLabel": "Interior Cleaning",
+    "interiorPoints": "5 Key Points",
+    "exteriorCleaningLabel": "Exterior Cleaning",
+    "exteriorPoints": "6 Key Points",
+    "detailedServicesTitle": "Detailed Services Included:",
+    "interiorList1": "Cleaning of central dashboard and central console",
+    "interiorList2": "Vacuuming of carpets, seats, and trunk (if empty)",
+    "interiorList3": "Cleaning of door panels and sills",
+    "interiorList4": "Interior window cleaning",
+    "interiorList5": "Air freshener",
+    "exteriorList1": "Complete exterior hand wash with shampoo",
+    "exteriorList2": "Cleaning of rims, tires, and fender wells",
+    "exteriorList3": "Cleaning of gas cap area",
+    "exteriorList4": "Exterior window cleaning",
+    "exteriorList5": "Tire dressing",
+    "exteriorList6": "Mosquito removal & Spray wax"
+  },
+  "luxoPremium": {
+    "title": "Luxo Premium",
+    "description": "Elevate your car's shine with our Luxo Premium package. This comprehensive detailing service includes advanced interior care and a machine-applied Carnauba wax for superior gloss and protection, keeping your vehicle looking its best for months.",
+    "sedanPriceLabel": "Sedan Price",
+    "SUVPriceLabel": "SUV Price",
+    "largeSUVPriceLabel": "Large SUV & Pick-up",
+    "waxProtectionLabel": "Wax Protection",
+    "waxProtectionDuration": "Up to 3 months",
+    "detailedServicesTitle": "Detailed Premium Services Included:",
+    "interiorList1": "Cleaning and hydration of central dashboard and central console",
+    "interiorList2": "Vacuuming of carpets, seats, and trunk (if empty)",
+    "interiorList3": "Cleaning of door panels and sills",
+    "interiorList4": "Interior window cleaning",
+    "interiorList5": "Air freshener",
+    "exteriorList1": "Complete exterior hand wash with shampoo",
+    "exteriorList2": "Cleaning of rims, tires, and fender wells",
+    "exteriorList3": "Cleaning of gas cap area",
+    "exteriorList4": "Exterior window cleaning",
+    "exteriorList5": "Tire dressing",
+    "exteriorList6": "Mosquito removal",
+    "exteriorList7": "Machine-applied Carnauba wax for more shine and 3 months protection"
+  },
+  "luxoFullDetailing": {
+    "title": "Luxo Full Detailing",
+    "description": "Experience the ultimate car care with our Luxo Full Detailing package. This comprehensive service goes beyond standard cleaning, offering deep restoration for both interior and exterior, including advanced paint protection and meticulous attention to every detail. Restore your vehicle to its showroom glory.",
+    "sedanPriceLabel": "Sedan Price",
+    "SUVPriceLabel": "SUV Price",
+    "largeSUVPriceLabel": "Large SUV & Pick-up",
+    "paintProtectionLabel": "Paint Protection",
+    "paintProtectionType": "Premium Sealant",
+    "detailedServicesTitle": "Complete Detailing Services Included:",
+    "interiorList1": "Deep cleaning and conditioning of central dashboard and console",
+    "interiorList2": "Comprehensive vacuuming of carpets, seats, and trunk (including under seats)",
+    "interiorList3": "Hot water extraction/steam cleaning for carpets and floor mats",
+    "interiorList4": "Leather cleaning & conditioning / Fabric shampooing",
+    "interiorList5": "Cleaning of door panels, sills, and jambs",
+    "interiorList6": "Detailed interior window cleaning",
+    "interiorList7": "Headliner spot cleaning",
+    "interiorList8": "Air freshener & odor elimination treatment",
+    "exteriorList1": "Multi-stage exterior hand wash with premium shampoo",
+    "exteriorList2": "Clay bar treatment for paint decontamination",
+    "exteriorList3": "Deep cleaning of rims, tires, and fender wells",
+    "exteriorList4": "Cleaning of gas cap area",
+    "exteriorList5": "Exterior window cleaning and streak-free finish",
+    "exteriorList6": "Long-lasting tire dressing",
+    "exteriorList7": "Mosquito and bug removal",
+    "exteriorList8": "Machine-applied premium paint sealant for enhanced gloss and protection (6+ months)",
+    "exteriorList9": "Chrome polishing",
+    "exteriorList10": "Exhaust tip cleaning/polishing"
+  },
+  "lang_button_text": "Español"
+}

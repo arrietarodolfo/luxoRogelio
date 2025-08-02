@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "services": "Servicios",
+    "portfolio": "Portafolio",
+    "team": "Equipo",
+    "contact": "Contacto",
+    "get_started": "Comenzar",
+    "dropdown": "Lista"
+  },
+  "hero": {
+    "title": "Detallado para Autos y Camiones<span>.</span>",
+    "subtitle": "Donde el brillo es solo el comienzo"
+  },
+  "about": {
+    "title": "Provisión de servicios dignos",
+    "description": "Nuestro compromiso es ofrecerte calidad y excelencia."
+  },
+  "services": {
+    "title": "Servicios",
+    "description": "Revisa nuestros servicios"
+  },
+  "global": {
+    "interiorHeading": "Interior:",
+    "exteriorHeading": "Exterior:"
+  },
+  "luxoBasic": {
+    "title": "Luxo Básico",
+    "description": "Descubre nuestro paquete Luxo Básico, el servicio esencial para el cuidado de tu vehículo. Ofrecemos una limpieza detallada interior y exterior para que tu coche luzca impecable. Un servicio completo y conveniente, diseñado para satisfacer tus necesidades básicas de detallado.",
+    "sedanPriceLabel": "Precio Sedán",
+    "SUVPriceLabel": "Precio SUV",
+    "largeSUVPriceLabel": "SUV Grande & Pick-up",
+    "interiorCleaningLabel": "Limpieza Interior",
+    "interiorPoints": "5 Puntos Clave",
+    "exteriorCleaningLabel": "Limpieza Exterior",
+    "exteriorPoints": "6 Puntos Clave",
+    "detailedServicesTitle": "Servicios Detallados Incluidos:",
+    "interiorList1": "Limpieza del tablero central y consola central",
+    "interiorList2": "Aspirado de alfombras, asientos y maletero (si está desocupado)",
+    "interiorList3": "Limpieza de paneles de puertas y umbrales",
+    "interiorList4": "Limpieza de cristales interiores",
+    "interiorList5": "Ambientador",
+    "exteriorList1": "Lavado exterior completo a mano con champú",
+    "exteriorList2": "Limpieza de llantas, neumáticos y guardabarros",
+    "exteriorList3": "Limpieza del área de la tapa de combustible",
+    "exteriorList4": "Limpieza de cristales exteriores",
+    "exteriorList5": "Acondicionador de neumáticos",
+    "exteriorList6": "Eliminación de mosquitos y Cera en spray"
+  },
+  "luxoPremium": {
+    "title": "Luxo Premium",
+    "description": "Eleva el brillo de tu coche con nuestro paquete Luxo Premium. Este servicio de detallado completo incluye un cuidado interior avanzado y una cera Carnauba aplicada a máquina para un brillo y protección superiores, manteniendo tu vehículo con su mejor aspecto durante meses.",
+    "sedanPriceLabel": "Precio Sedán",
+    "SUVPriceLabel": "Precio SUV",
+    "largeSUVPriceLabel": "SUV Grande & Pick-up",
+    "waxProtectionLabel": "Protección de Cera",
+    "waxProtectionDuration": "Hasta 3 meses",
+    "detailedServicesTitle": "Servicios Premium Detallados Incluidos:",
+    "interiorList1": "Limpieza e hidratación del tablero central y consola central",
+    "interiorList2": "Aspirado de alfombras, asientos y maletero (si está desocupado)",
+    "interiorList3": "Limpieza de paneles de puertas y umbrales",
+    "interiorList4": "Limpieza de cristales interiores",
+    "interiorList5": "Ambientador",
+    "exteriorList1": "Lavado exterior completo a mano con champú",
+    "exteriorList2": "Limpieza de llantas, neumáticos y guardabarros",
+    "exteriorList3": "Limpieza del área de la tapa de combustible",
+    "exteriorList4": "Limpieza de cristales exteriores",
+    "exteriorList5": "Acondicionador de neumáticos",
+    "exteriorList6": "Eliminación de mosquitos",
+    "exteriorList7": "Cera Carnauba aplicada a máquina para más brillo y 3 meses de protección"
+  },
+  "luxoFullDetailing": {
+    "title": "Luxo Detallado Completo",
+    "description": "Experimenta el máximo cuidado automotriz con nuestro paquete Luxo Detallado Completo. Este servicio exhaustivo va más allá de la limpieza estándar, ofreciendo una restauración profunda tanto para el interior como para el exterior, incluyendo protección de pintura avanzada y una atención meticulosa a cada detalle. Restaura tu vehículo a su esplendor de sala de exposición.",
+    "sedanPriceLabel": "Precio Sedán",
+    "SUVPriceLabel": "Precio SUV",
+    "largeSUVPriceLabel": "SUV Grande & Pick-up",
+    "paintProtectionLabel": "Protección de Pintura",
+    "paintProtectionType": "Sellador Premium",
+    "detailedServicesTitle": "Servicios Completos de Detallado Incluidos:",
+    "interiorList1": "Limpieza profunda y acondicionamiento del tablero central y la consola",
+    "interiorList2": "Aspirado completo de alfombras, asientos y maletero (incluyendo debajo de los asientos)",
+    "interiorList3": "Extracción con agua caliente/limpieza a vapor para alfombras y tapetes",
+    "interiorList4": "Limpieza y acondicionamiento de cuero / Champú para tela",
+    "interiorList5": "Limpieza de paneles de puertas, umbrales y jambas",
+    "interiorList6": "Limpieza detallada de cristales interiores",
+    "interiorList7": "Limpieza de manchas en el techo interior",
+    "interiorList8": "Ambientador y tratamiento de eliminación de olores",
+    "exteriorList1": "Lavado exterior multi-etapa a mano con champú premium",
+    "exteriorList2": "Tratamiento con barra de arcilla para descontaminación de pintura",
+    "exteriorList3": "Limpieza profunda de llantas, neumáticos y guardabarros",
+    "exteriorList4": "Limpieza del área de la tapa de combustible",
+    "exteriorList5": "Limpieza de cristales exteriores y acabado sin marcas",
+    "exteriorList6": "Acondicionador de neumáticos de larga duración",
+    "exteriorList7": "Eliminación de mosquitos e insectos",
+    "exteriorList8": "Sellador de pintura premium aplicado a máquina para un brillo mejorado y protección (más de 6 meses)",
+    "exteriorList9": "Pulido de cromo",
+    "exteriorList10": "Limpieza/pulido de puntas de escape"
+  },
+  "lang_button_text": "English"
+}

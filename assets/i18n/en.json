@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "team": "Team",
+    "contact": "Contact",
+    "get_started": "Get Started"
+  },
+  "hero": {
+    "title": "Mobile Car and Truck Detailing<span>.</span>",
+    "subtitle": "Where the shine is just the beginning"
+  },
+  "about": {
+    "title": "Dignified Service Provision",
+    "description": "Our commitment is to provide quality and excellence."
+  },
+  "services": {
+    "title": "Services",
+    "description": "Check our Services"
+  }
+}
