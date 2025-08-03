@@ -1511,6 +1511,10 @@ section,
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
+#contact {
+  scroll-margin-top: 100px;
+}
+
 .contact .info-item+.info-item {
   margin-top: 40px;
 }
